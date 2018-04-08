@@ -1,1 +1,1 @@
-puts "Welcome to Tic Tac Toe!"
+filter_parameter_loggingputs "Welcome to Tic Tac Toe!"
